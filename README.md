@@ -31,7 +31,7 @@ cd JobAggregator
 ```bash
 git clone https://github.com/<your-username>/JobAggregator.git
 cd JobAggregator
-
+```
 ---
 
 ## 4. Install Dependenositorycies
