@@ -24,7 +24,7 @@ This project uses the [SERP API](https://serpapi.com/) to scrape job postings, p
 ```bash
 git clone https://github.com/<your-username>/JobAggregator.git
 cd JobAggregator
-
+```
 ---
 
 ## 4. Install Dependenositorycies
