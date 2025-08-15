@@ -28,12 +28,13 @@ cd JobAggregator
 ---
 
 ## 4. Install Dependenositorycies
+```bash
 python -m venv venv
 source venv/bin/activate     # Mac/Linux  
 venv\Scripts\activate        # Windows  
 
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -62,9 +63,9 @@ Use Databricks, Airflow, or MWAA for orchestration
 
 ## 8. Requirements 
 The requirements.txt file should include:
-
+```bash
 requests
 pandas
 python-dotenv
 jupyter
-
+```
