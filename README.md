@@ -27,13 +27,6 @@ cd JobAggregator
 
 ---
 
-## 3. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/JobAggregator.git
-cd JobAggregator
-```
----
-
 ## 4. Install Dependenositorycies
 python -m venv venv
 source venv/bin/activate     # Mac/Linux  
