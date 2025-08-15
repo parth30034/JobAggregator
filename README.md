@@ -46,18 +46,18 @@ SERP_API_KEY=your_serp_api_key_here
 ---
 
 ## 6. Run the Notebook
-Open 1.JobAggregator.ipynb
-Adjust search parameters (keywords, location, etc.)
-Run all cells to scrape and process jobs data
-Output will be saved as CSV/JSON in the output/ folder
+- Open 1.JobAggregator.ipynb
+- Adjust search parameters (keywords, location, etc.)
+- Run all cells to scrape and process jobs data
+- Output will be saved as CSV/JSON in the output/ folder
 
 ---
 
 ## 7. Pipeline Extension
-Bronze Layer: Raw data directly from SERP API
-Silver Layer: Clean and standardized job data
-Gold Layer: Aggregated analytics-ready dataset
-Use Databricks, Airflow, or MWAA for orchestration
+- Bronze Layer: Raw data directly from SERP API
+- Silver Layer: Clean and standardized job data
+- Gold Layer: Aggregated analytics-ready dataset
+- Use Databricks, Airflow, or MWAA for orchestration
 
 ---
 
