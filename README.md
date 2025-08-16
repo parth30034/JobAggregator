@@ -27,7 +27,7 @@ cd JobAggregator
 ```
 ---
 
-## 4. Install Dependenositorycies
+## 4. Install Dependencies
 ```bash
 python -m venv venv
 source venv/bin/activate     # Mac/Linux  
